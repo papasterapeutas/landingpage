@@ -1,36 +1,26 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+# "Affiliates" - Jekyll Template by WowThemes.net
 
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
+[Live Demo](https://wowthemesnet.github.io/affiliates-jekyll-theme/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/affiliates-jekyll-theme/archive/master.zip) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/template-affiliates-bootstrap-jekyll/) &nbsp; | &nbsp; [More Jekyll Themes](https://bootstrapstarter.com/template-categories/jekyll/)
 
-## Demo
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+![affiliates](assets/images/theme1.jpg)
 
-The main page would look like this:
 
-![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
+### Copyright
 
-The post page would look like this:
+Copyright (C) 2019 WowThemes.net.
 
-![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
+**Affiliates for Jekyll** is designed by [Sal](https://www.wowthemes.net) and it is licensed MIT. If this project helps you reduce time to develop or you want to remove the attribution credit, you can give me a cup of coffee :)
 
-## Features
+[Buy me a coffee](https://www.wowthemes.net/donate/)
 
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
-- [Analytics](https://analytics.google.com/analytics/web/)
-- Support Emoji
+-----------------
 
-## Installation:
+### Contribute
 
-Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
+1. [Fork the repo](https://github.com/wowthemesnet/affiliates-jekyll-theme.git).
+2. Clone a copy of your fork on your local
+3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
+4. Make necessary changes, commit, push and open a pull request on GitHub.
 
-## License
-
-GNU General Public License v3.0
-
-## Donate
-
-<p>If you like the themes that I create you can become my sponsor on <a href="https://www.patreon.com/artemsheludko" target="_blank">Patreon</a>.
-<p align="center"><b>Thank you for your support ❤️</b></p>
+Thank you!
